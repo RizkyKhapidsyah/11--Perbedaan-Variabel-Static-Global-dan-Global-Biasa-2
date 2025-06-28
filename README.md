@@ -1,0 +1,1 @@
+# 11--Perbedaan-Variabel-Static-Global-dan-Global-Biasa-2
